@@ -13,7 +13,7 @@ Farming_UA = {
 	Farming_Ready_for_Harvest = "Готовий урожай",
 	Farming_In_bloom = "В цвіті",
 	Farming_Seed-bearing = "Сім'яник",
-	Farming_Receding = "Завядающ.",
+	Farming_Receding = "Зів'ялий",
 	Farming_Rotten = "Згнив.",
 	Farming_Destroyed = "Знищенн.",
 	-- farming info text
